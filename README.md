@@ -1,2 +1,1 @@
-# PROYECTO-22
-Proyecto de la clase 22
+# Plantilla-del-proyecto-C22
